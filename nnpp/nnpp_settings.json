@@ -1,0 +1,30 @@
+{
+
+    "sheets":[
+        "Data"
+    ],
+
+    "requiredFields": [
+
+        "Date",
+        "Steps",
+        "Weight",
+        "Peak Flow (%)",
+        "FEV1 (%)",
+        "Blood Oxygen",
+        "Systolic Blood Px",
+        "Diastolic Blood Px",
+        "Heart Rate",
+        "Body Temp",
+        "Room Temp",
+        "Wellness",
+        "Cough",
+        "Appetite",
+        "Breathing",
+        "Energy",
+        "NEWS",
+        "Respiratory Contact",
+        "Other Contact",
+        "In Hospital"
+    ]
+}
