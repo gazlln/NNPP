@@ -18,7 +18,7 @@ setup_requirements = [ ]
 test_requirements = [ ]
 
 setup(
-    author="Gareth Long",
+    author="Gareth Long For Headgear LTD",
     author_email='gazlong@me.com',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
@@ -44,7 +44,6 @@ setup(
     keywords='nnpp',
     name='nnpp',
     packages=find_packages(include=['nnpp']),
-    package_data={'settings':['nnpp_settings.json']},
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,

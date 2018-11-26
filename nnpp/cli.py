@@ -3,14 +3,15 @@
 """Console script for nnpp."""
 import sys
 import click
+import json
 
 
 @click.command()
 def main(args=None):
     """Console script for nnpp."""
-    click.echo("Replace this message by putting your code into "
-               "nnpp.cli.main")
-    click.echo("See click documentation at http://click.pocoo.org/")
+    click.echo("Pre-processing of Neural Network Data")
+    click.echo("Coming Soon...")
+
     return 0
 
 
